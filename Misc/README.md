@@ -4,9 +4,9 @@ This directory contains writeups for miscellaneous challenges — the unpredicta
 
 Misc challenges don’t follow strict categories. They may involve:
 
->Encoding/decoding tricks
->Logical puzzles
->OSINT (Open Source Intelligence)
->Scripting or automation
->Pattern recognition
->Anything that doesn’t fit elsewhere
+* Encoding/decoding tricks
+* Logical puzzles
+* OSINT (Open Source Intelligence)
+* Scripting or automation
+* Pattern recognition
+* Anything that doesn’t fit elsewhere

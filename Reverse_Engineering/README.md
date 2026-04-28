@@ -4,8 +4,8 @@ This directory contains writeups for reverse engineering challenges solved durin
 
 The writeups here break down binaries step by step:
 
->Analyzing executable behavior
->Disassembling and decompiling code
->Identifying control flow and logic flaws
->Reconstructing algorithms
->Extracting hardcoded or computed flags
+* Analyzing executable behavior
+* Disassembling and decompiling code
+* Identifying control flow and logic flaws
+* Reconstructing algorithms
+* Extracting hardcoded or computed flags
